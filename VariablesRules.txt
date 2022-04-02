@@ -1,0 +1,18 @@
+variables are case sensitive
+variables has to start with _ number letters dollar sign
+make them descriptive
+
+Data Types
+    Values assigned to variables
+
+DataTypes List
+True - Boolean
+number
+String
+
+Converting variables
+
+Number 
+Boolean
+Undefined
+
